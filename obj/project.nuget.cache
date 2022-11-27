@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+AcxGwF27uOPhq8LA5Newq7unZB6V/fQRgudVgN8bEB7dYMP5P/2f5rRSxGVVv/ZoQUkyjPUFkFdmPLDQruGA==",
+  "success": true,
+  "projectFilePath": "D:\\Asp.Net core\\Flopkart\\Flopkart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GowthamM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GowthamM\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\GowthamM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\GowthamM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
